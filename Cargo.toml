@@ -1,0 +1,12 @@
+[package]
+name = "fs-db"
+description = "A simple file-system based key:value data store"
+repository = "https://github.com/ryankurte/rust-fs-db"
+version = "0.1.0"
+authors = ["Ryan Kurte <ryankurte@gmail.com>"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
+serde = "1.0.90"
+serde_json = "1.0.39"
